@@ -2,6 +2,8 @@
 
 This is a personal project. In this project I put in practice some animations with just HTML and CSS. And this time I'm using four files to develop the whole page. 
 
+Here the github-pages link: https://ferruizdevp.github.io/granada-tour-landing-page/
+
 And this is how to project looks like:
 
 ![05-granada-tour-landing-page](https://github.com/FerRuizDevp/granada-tour-landing-page/assets/117100019/aebd6003-914c-4175-a9a5-a590c655be30)
