@@ -2,7 +2,6 @@
 {
   "title": "Granada-Tour Landing Page",
   "description": "A personal project I wanted to work in. In this project I put in practice some animations with just HTML and CSS. And this time I'm using four files to develop the whole page.",
-  "video": " ", 
   "imagePreview": "https://github.com/FerRuizDevp/granada-tour-landing-page/assets/117100019/aebd6003-914c-4175-a9a5-a590c655be30",
   "githubLink": "https://github.com/FerRuizDevp/granada-tour-landing-page",
   "netlifyLink": "https://granada-tour-landing-page.netlify.app/",
