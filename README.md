@@ -5,7 +5,7 @@
   "imagePreview": "https://github.com/FerRuizDevp/granada-tour-landing-page/assets/117100019/aebd6003-914c-4175-a9a5-a590c655be30",
   "githubLink": "https://github.com/FerRuizDevp/granada-tour-landing-page",
   "netlifyLink": "https://granada-tour-landing-page.netlify.app/",
-  "tags": ["more-project", "landing-page", "html", "css", "static-design"]
+  "tags": ["more-project", "landing-page", "HTML", "CSS", "static-design"]
 }
 -->
 ## ☀️ Granada-Tour Landing Page
